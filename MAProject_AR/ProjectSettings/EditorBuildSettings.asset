@@ -4,10 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/MAPARLA_v01.unity
-    guid: 373d57c5c55a02047912aa5226b7b812
+  m_Scenes: []
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 880416da8ac2ca24cb7e46955b3e36ef, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3bcc46979ef247f44b3e998de92dbd81, type: 2}
