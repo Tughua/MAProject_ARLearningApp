@@ -1,0 +1,40 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DragMove : MonoBehaviour
+{
+    private Vector2 touchStart;
+    private Vector3 offset;
+
+    public float moveSpeed = 0.1f; // Adjust this value for movement speed
+
+    void Update()
+    {
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+
+            switch (touch.phase)
+            {
+                case TouchPhase.Began:
+                    touchStart = touch.position;
+                    offset = transform.position - GetTouchAsWorldPoint(touch.position);
+                    break;
+
+                case TouchPhase.Moved:
+                    Vector3 newPosition = GetTouchAsWorldPoint(touch.position) + offset;
+                    transform.position = Vector3.Lerp(transform.position, newPosition, moveSpeed);
+                    break;
+            }
+        }
+    }
+
+    Vector3 GetTouchAsWorldPoint(Vector2 touchPosition)
+    {
+        return Camera.main.ScreenToWorldPoint(new Vector3(touchPosition.x, touchPosition.y, 10));
+    }
+}
+
+
+Note: Speed good at 0.01f
