@@ -5260,13 +5260,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443560408}
-  - component: {fileID: 443560409}
   - component: {fileID: 443560410}
-  - component: {fileID: 443560411}
   - component: {fileID: 443560412}
+  - component: {fileID: 443560413}
   m_Layer: 0
   m_Name: LandScape
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5660,18 +5659,6 @@ Transform:
   m_Father: {fileID: 1391299768}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: -16.868, z: 0}
---- !u!114 &443560409
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443560407}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 447ed732fd4262d4abf4ab752c74f5c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &443560410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5695,19 +5682,6 @@ MonoBehaviour:
   sensitivity: 1
   damping: -1
   remainingScale: {x: 0, y: 0, z: 0}
---- !u!114 &443560411
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443560407}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9b53b81d94f317f408efcd37e0adfcb5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationSpeed: 0.003
 --- !u!65 &443560412
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5727,8 +5701,20 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 2.09, y: 1.5, z: 2.01}
-  m_Center: {x: 0, y: 0.35, z: 0}
+  m_Size: {x: 1.83, y: 1.58, z: 1.98}
+  m_Center: {x: 0, y: 0.31, z: 0}
+--- !u!114 &443560413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443560407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f95478b51a11874980883524eb6c2bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &448023093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23911,6 +23897,7 @@ GameObject:
   - component: {fileID: 1685456226}
   - component: {fileID: 1685456225}
   - component: {fileID: 1685456224}
+  - component: {fileID: 1685456229}
   m_Layer: 0
   m_Name: ARCamera
   m_TagString: MainCamera
@@ -24018,6 +24005,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1685456229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685456223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f62403705a3ed44aba2686125336e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1687124373
 PrefabInstance:
   m_ObjectHideFlags: 0
