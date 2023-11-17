@@ -1,0 +1,62 @@
+INSTRUCTIONS:
+------------
+Yes, you need to attach this script to a GameObject in your scene. The targetObject variable in the script is the GameObject that you want to hide and unhide. Here's what you should do:
+
+- Create an Empty GameObject:
+
+In your Unity scene, right-click in the Hierarchy window.
+Choose "Create Empty" to create an empty GameObject.
+
+- Attach the Script:
+
+Select the newly created empty GameObject in the Hierarchy.
+Drag and drop the script onto the Inspector window, or use the "Add Component" button to add the script.
+
+- Assign the Target Object:
+
+In the Inspector, you'll see a field named targetObject in the script component.
+Drag the GameObject that you want to hide and unhide into this field.
+
+- Testing:
+
+Run your Unity scene.
+Double-tap on the screen while the app is running to see if it hides and unhides the specified object.
+Make sure to save your scene and project after making these changes.
+
+-------------------------------------------------------------------------
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DoubleTapToggle : MonoBehaviour
+{
+    private float lastTapTime;
+    public float doubleTapTimeThreshold = 0.5f; // Adjust this value as needed
+    public GameObject targetObject; // Assign the GameObject you want to toggle in the Inspector
+
+    void Update()
+    {
+        if (Input.touchCount == 1)
+        {
+            Touch touch = Input.GetTouch(0);
+
+            if (touch.phase == TouchPhase.Ended)
+            {
+                if (Time.time - lastTapTime < doubleTapTimeThreshold)
+                {
+                    ToggleVisibility();
+                }
+
+                lastTapTime = Time.time;
+            }
+        }
+    }
+
+    void ToggleVisibility()
+    {
+        if (targetObject != null)
+        {
+            targetObject.SetActive(!targetObject.activeSelf);
+        }
+    }
+}
