@@ -1,0 +1,35 @@
+Sine, Cosine and Tangent
+
+Right Triangle
+Sine, Cosine and Tangent are the main functions used in Trigonometry and are based on a Right-Angled Triangle.
+
+Before getting stuck into the functions, it helps to give a name to each side of a right triangle:
+
+Sine, Cosine and Tangent
+Sine, Cosine and Tangent (often shortened to sin, cos and tan) are each a ratio of sides of a right angled triangle:
+
+Size Does Not Matter
+The triangle can be large or small and the ratio of sides stays the same.
+
+Only the angle changes the ratio.
+
+
+Sohcahtoa
+
+How to remember? Think "Sohcahtoa"!
+
+It works like this:
+
+Soh...
+Sine = Opposite / Hypotenuse
+...cah...
+Cosine = Adjacent / Hypotenuse
+...toa
+Tangent = Opposite / Adjacent
+You can read more about sohcahtoa ... please remember it, it may help in an exam !
+
+Why?
+Why are these functions important?
+
+Because they let us work out angles when we know sides
+And they let us work out sides when we know angles
