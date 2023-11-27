@@ -1,0 +1,4 @@
+Method of user testing to inform iterations
+https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/
+
+https://en.wikipedia.org/wiki/Test-driven_development
