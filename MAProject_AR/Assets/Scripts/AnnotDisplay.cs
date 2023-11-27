@@ -5,7 +5,7 @@ using UnityEngine;
 public class ToggleVisibility : MonoBehaviour
 {
     public GameObject targetObject; // Assign your GameObject to this field
-    public float holdTime = 1f; // Adjust this value for the hold time required
+    public float holdTime = 2f; // Adjust this value for the hold time required
 
     private float touchStartTime;
 
