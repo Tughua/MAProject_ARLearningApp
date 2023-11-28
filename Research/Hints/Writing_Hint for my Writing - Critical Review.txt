@@ -1,0 +1,45 @@
+- This is what this person said about AR. They went on to say this about AR as well.
+- This other person said this about AR. According to research/documentation/software/journal/survey/any other evidences | 	[show some evidence of the benefit of AR in learning, engagement, young kids and others]- AR has this 	impact, 	benefits: as mentioned by #ref
+- Examples of AR used in classrooms and other places by #ref.
+- #REF notes or says that - All aspects of AR 
+- #ref said this about AR and education - and I have chosen to allow or have this study inform my design decision/interactivity features
+- Principles of building an AR application by #ref
+
+Direction of Tech Development (as it relates to answering the research question)
+Things I explored (that exist) to use in my development phase
+- Talk about the technology used
+	- Vuforia
+	- Leantouch
+	- Unity ARcore
+	- Blender
+	- Mobile device
+	- Android 
+	(Here explain how AR works with Markers, marker less and all ways it recognises stuff to generate the digital 	content)
+	- Talk about interaction in AR that might exist but people haven't been using 
+	- Talk about Gradient low-poly utilised in my work 
+	- Talk about modeling technology - 3D for AR
+	- How to build 3D scenes or build for AR articles/research
+(Be sure to briefly touch on the limitations)
+
+
+Talk about other AR educational Apps I reviewed
+- What has been done and what areas are in need of innovation/enhancement
+
+AR design
+Usage
+Benefits
+
+Learning
+Engagement
+spark interest using visuals
+
+Design, specificationsm requirements for AR
+End user design and implementations.
+
+
+Find a way to link two separate research that serve it each other.
+
+
+Get to this: https://www.classvr.com/blog/benefits-of-augmented-reality-in-education/
+
+https://www.viewsonic.com/library/education/6-benefits-and-5-examples-of-augmented-reality-in-education/#:~:text=features%20and%20benefits.-,The%20Benefits%20of%20AR%20in%20Education,to%20use%20the%20new%20tech.
