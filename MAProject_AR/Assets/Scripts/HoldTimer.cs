@@ -28,6 +28,17 @@ public class AnimatedTimerSlider : MonoBehaviour
         if(timer <= 0) {
             // Reset the timer to its initial duration when it reaches 0
             timer = timerDuration;
+
+            // Make the slider disappear after the reset
+            timerSlider.gameObject.SetActive(false);
+        }
+        else if (!timerSlider.gameObject.activeSelf)
+        {
+            // Make the slider visible if it was hidden
+            timerSlider.gameObject.SetActive(true);
         }
     }
 }
+
+
+
