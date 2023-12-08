@@ -26,16 +26,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -43,7 +43,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -56,16 +56,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -73,7 +73,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -86,16 +86,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -103,7 +103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -114,18 +114,18 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 1
-        inSlope: -3.46731
-        outSlope: -3.46731
-        tangentMode: 0
+        inSlope: 0
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.048974942
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -133,7 +133,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -146,16 +146,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -163,7 +163,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -176,16 +176,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -193,7 +193,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -206,16 +206,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -223,7 +223,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -235,17 +235,17 @@ AnimationClip:
         time: 0
         value: 1
         inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -253,7 +253,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -266,16 +266,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -283,7 +283,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -296,16 +296,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -313,7 +313,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -326,16 +326,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -343,7 +343,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -355,17 +355,17 @@ AnimationClip:
         time: 0
         value: 1
         inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -373,7 +373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -386,16 +386,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -403,7 +403,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -416,16 +416,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -433,7 +433,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -446,16 +446,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -463,7 +463,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -474,18 +474,18 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 1
-        inSlope: -3.5427372
-        outSlope: -3.5427372
-        tangentMode: 0
+        inSlope: 0
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.094533026
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -493,7 +493,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -506,7 +506,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 3764404593
+      path: 1450847400
       attribute: 914802057
       script: {fileID: 0}
       typeID: 23
@@ -515,7 +515,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2036928715
+      path: 3480452370
       attribute: 914802057
       script: {fileID: 0}
       typeID: 23
@@ -524,7 +524,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 874610350
+      path: 2184909687
       attribute: 914802057
       script: {fileID: 0}
       typeID: 23
@@ -533,7 +533,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2905091860
+      path: 456278733
       attribute: 914802057
       script: {fileID: 0}
       typeID: 23
@@ -542,7 +542,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3764404593
+      path: 1450847400
       attribute: 109495689
       script: {fileID: 0}
       typeID: 23
@@ -551,7 +551,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3764404593
+      path: 1450847400
       attribute: 377931145
       script: {fileID: 0}
       typeID: 23
@@ -560,7 +560,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3764404593
+      path: 1450847400
       attribute: 646366601
       script: {fileID: 0}
       typeID: 23
@@ -569,7 +569,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2036928715
+      path: 3480452370
       attribute: 109495689
       script: {fileID: 0}
       typeID: 23
@@ -578,7 +578,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2036928715
+      path: 3480452370
       attribute: 377931145
       script: {fileID: 0}
       typeID: 23
@@ -587,7 +587,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2036928715
+      path: 3480452370
       attribute: 646366601
       script: {fileID: 0}
       typeID: 23
@@ -596,7 +596,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 874610350
+      path: 2184909687
       attribute: 109495689
       script: {fileID: 0}
       typeID: 23
@@ -605,7 +605,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 874610350
+      path: 2184909687
       attribute: 377931145
       script: {fileID: 0}
       typeID: 23
@@ -614,7 +614,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 874610350
+      path: 2184909687
       attribute: 646366601
       script: {fileID: 0}
       typeID: 23
@@ -623,7 +623,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2905091860
+      path: 456278733
       attribute: 109495689
       script: {fileID: 0}
       typeID: 23
@@ -632,7 +632,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2905091860
+      path: 456278733
       attribute: 377931145
       script: {fileID: 0}
       typeID: 23
@@ -641,7 +641,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2905091860
+      path: 456278733
       attribute: 646366601
       script: {fileID: 0}
       typeID: 23
@@ -680,16 +680,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -697,7 +697,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -710,16 +710,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -727,7 +727,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -740,16 +740,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -757,7 +757,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -768,18 +768,18 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 1
-        inSlope: -3.46731
-        outSlope: -3.46731
-        tangentMode: 0
+        inSlope: 0
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.048974942
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -787,7 +787,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_L1
+    path: Blood_Arrow_L1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -800,16 +800,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -817,7 +817,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -830,16 +830,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -847,7 +847,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -860,16 +860,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -877,7 +877,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -889,17 +889,17 @@ AnimationClip:
         time: 0
         value: 1
         inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -907,7 +907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_L2
+    path: Blood_Arrow_L2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -920,16 +920,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -937,7 +937,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -950,16 +950,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -967,7 +967,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -980,16 +980,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -997,7 +997,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -1009,17 +1009,17 @@ AnimationClip:
         time: 0
         value: 1
         inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -1027,7 +1027,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_R1
+    path: Blood_Arrow_R1
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -1040,16 +1040,16 @@ AnimationClip:
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 1
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -1057,7 +1057,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.x
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -1070,16 +1070,16 @@ AnimationClip:
         value: 0.55
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0.55
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -1087,7 +1087,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.y
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -1100,16 +1100,16 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -0
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -1117,7 +1117,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.z
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
@@ -1128,18 +1128,18 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 1
-        inSlope: -3.5427372
-        outSlope: -3.5427372
-        tangentMode: 0
+        inSlope: 0
+        outSlope: -1
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.094533026
+        outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
         value: 0
-        inSlope: 0
+        inSlope: -1
         outSlope: 0
-        tangentMode: 136
+        tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
@@ -1147,7 +1147,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._MainTex_ST.w
-    path: BloodArrows_03 Variant/Blood_Arrow_R2
+    path: Blood_Arrow_R2
     classID: 23
     script: {fileID: 0}
     flags: 0
