@@ -1,0 +1,30 @@
+Bacca Acosta, J.L., Baldiris Navarro, S.M., Fabregat Gesa, R. and Graf, S., 2014. Augmented reality trends in education: a systematic review of research and applications. Journal of Educational Technology and Society, 2014, vol. 17, núm. 4, p. 133-149.
+
+Carmigniani, J., Furht, B., Anisetti, M., Ceravolo, P., Damiani, E. and Ivkovic, M., 2011. Augmented reality technologies, systems and applications. Multimedia tools and applications, 51, pp.341-377.
+
+Diegmann, P., Schmidt-Kraepelin, M., Eynden, S. and Basten, D., 2015. Benefits of augmented reality in educational environments-a systematic literature review.
+
+Dünser, A., Grasset, R., Seichter, H. and Billinghurst, M., 2007. Applying HCI principles to AR systems design. (2007). URl: http://ir. canterbury. ac. nz/bitstream/handle/10092/2340/12604890_.
+
+Eagle, R., 2021, November. Augmented reality as a Thirdspace: Simultaneous experience of the physical and virtual. In International and Interdisciplinary Conference on Image and Imagination (pp. 355-363). Cham: Springer International Publishing.
+
+GeoGebra (2020) Bringing Math Textbooks to Life with AR. 11 December. Available at: https://www.youtube.com/watch?v=8JZRLom0Ljc&t=2251s (Accessed: October 2023)
+
+Geroimenko, V., 2012, July. Augmented reality technology and art: The analysis and visualization of evolving conceptual models. In 2012 16th International Conference on Information Visualisation (pp. 445-453). IEEE.
+
+Jamrus, M.H.M. and Razali, A.B., 2019. Augmented reality in teaching and learning English reading: realities, possibilities, and limitations. International Journal of Academic Research in Progressive Education and Development, 8(4), pp.724-737.
+
+Luckin, R. and Fraser, D.S., 2011. Limitless or pointless? An evaluation of augmented reality technology in the school and home. International Journal of Technology Enhanced Learning, 3(5), pp.510-524.
+
+Mishra, A. and Dubey, D., 2013. A comparative study of different software development life cycle models in different scenarios. International Journal of Advance research in computer science and management studies, 1(5).
+
+Parsons, D. and MacCallum, K., 2021. Current perspectives on augmented reality in medical education: applications, affordances and limitations. Advances in medical education and practice, pp.77-91.
+
+Saidin, N.F., Halim, N.D.A. and Yahaya, N., 2015. A review of research on augmented reality in education: Advantages and applications. International education studies, 8(13), pp.1-8.
+
+Test-driven development (2023) IBM. Available at: https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/ (Accessed October 2023)
+
+Van Krevelen, D.W.F. and Poelman, R., 2010. A survey of augmented reality technologies, applications and limitations. International journal of virtual reality, 9(2), pp.1-20.
+
+Yuen, S.C.Y., Yaoyuneyong, G. and Johnson, E., 2011. Augmented reality: An overview and five directions for AR in education. Journal of Educational Technology Development and Exchange (JETDE), 4(1), p.11.
+[Original source: https://studycrumb.com/alphabetizer]
